@@ -1,0 +1,1 @@
+pip -m install pandas numpy matplotlib seaborn
