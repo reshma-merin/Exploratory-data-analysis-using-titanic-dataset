@@ -63,5 +63,4 @@ To replicate this analysis, you will need the following Python packages:
 ### Heatmap
 <img width="478" alt="Heatmap" src="https://github.com/user-attachments/assets/ca2b3f78-e557-4995-b3cc-0a9e95784325">
 
-## HAPPY CODING
 
